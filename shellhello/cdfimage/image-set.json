@@ -1,0 +1,133 @@
+{
+  "suite": "opsbridge",
+  "org_name": "hpeswitom",
+  "version": "2018.02",
+  "images": [
+    {
+      "image": "itom-bvd-autopass-bridge:10.64.001.5802"
+    },
+    {
+      "image": "itom-performance-engine-admintools:10.63.003-8"
+    },
+    {
+      "image": "itom-reporting-content-interface-health:10.22.404"
+    },
+    {
+      "image": "itom-reporting-content-synthetic-transaction:10.22.404"
+    },
+    {
+      "image": "itom-redis:10.63.001.5555"
+    },
+    {
+      "image": "itom-performance-engine-listener:10.63.003-8"
+    },
+    {
+      "image": "itom-reporting-content-service-health:10.22.404"
+    },
+    {
+      "image": "itom-omi:10.64.002.002"
+    },
+    {
+      "image": "itom-reporting-content-oracle-db:10.22.404"
+    },
+    {
+      "image": "itom-opsbridge-ingress-controller:10.64.002.002"
+    },
+    {
+      "image": "itom-reporting-content-operations-manager:10.22.404"
+    },
+    {
+      "image": "itom-reporting-content-real-user-transaction:10.22.404"
+    },
+    {
+      "image": "itom-reporting-content-virtualization-performance:10.22.404"
+    },
+    {
+      "image": "itom-reporting-content-omi:10.22.404"
+    },
+    {
+      "image": "itom-cdf-admin:1.4-00120"
+    },
+    {
+      "image": "itom-reporting-content-ibm-websphere:10.22.404"
+    },
+    {
+      "image": "itom-reporting-content-ms-active-directory:10.22.404"
+    },
+    {
+      "image": "itom-reporting-collector:10.22.412"
+    },
+    {
+      "image": "itom-reporting-content-component-health:10.22.404"
+    },
+    {
+      "image": "itom-cmdb-server:10.33.1067"
+    },
+    {
+      "image": "itom-idm:1.19.0"
+    },
+    {
+      "image": "itom-reporting-content-oracle-weblogic:10.22.404"
+    },
+    {
+      "image": "itom-opsbridge-config:10.64.002.002"
+    },
+    {
+      "image": "itom-reporting-content-network-performance:10.22.404"
+    },
+    {
+      "image": "itom-autopass-lms:10.3.0-2017100416"
+    },
+    {
+      "image": "heapster:v1.4.3"
+    },
+    {
+      "image": "itom-bvd-config:10.64.001.5802"
+    },
+    {
+      "image": "itom-performance-engine-config:10.63.003-8"
+    },
+    {
+      "image": "itom-reporting-content-core-domains:10.22.404"
+    },
+    {
+      "image": "itom-bvd:10.64.001.5802"
+    },
+    {
+      "image": "itom-reporting-config:10.22.412"
+    },
+    {
+      "image": "itom-kafka:0.10.1.0-004"
+    },
+    {
+      "image": "itom-opsbridge-ingress-defaultbackend:1.0"
+    },
+    {
+      "image": "itom-postgresql:9.4.12-00292"
+    },
+    {
+      "image": "itom-zookeeper:3.4.9-004"
+    },
+    {
+      "image": "itom-reporting-content-ms-sql:10.22.404"
+    },
+    {
+      "image": "itom-omi-artemis:2.4.0.47"
+    },
+    {
+      "image": "itom-reporting:10.22.412"
+    },
+    {
+      "image": "itom-reporting-content-ms-exchange:10.22.404"
+    },
+    {
+      "image": "itom-postgresql:9.5.9-00120"
+    },
+    {
+      "image": "itom-reporting-content-system-performance:10.22.404"
+    },
+    {
+      "image": "itom-postgresql-pool:3.7.0-00120"
+    }
+  ]
+}
